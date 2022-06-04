@@ -1,5 +1,5 @@
 # 심리상담 챗봇
-
+https://www.youtube.com/watch?v=VVArHrsxrYU
 심리상담 정신건강 상담 챗봇. AI chatbot for psychology consultation.
 
 ![](result.png)
